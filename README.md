@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phuc Huy Nguyen
+- 👋 Hi, I’m Phuc Huy Nguyen, but call me Ari for short.
 - 👀 I’m interested in software development (especially mobile applications development).
 - 🌱 I’m currently learning C/C++, Python, Dart, Flutter.
 - 😄 Pronouns: He/him.
