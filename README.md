@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phuc Huy Nguyen, but call me Ari for short.
+- 👋 Hi, I’m Phuc Huy Nguyen, but call me Ari for short. I am a CS student at Northern Virginia Community College.
 - 👀 I’m interested in software development (especially mobile applications development).
 - 🌱 I’m currently learning C/C++, Python, Dart, Flutter.
 - 😄 Pronouns: He/him.
