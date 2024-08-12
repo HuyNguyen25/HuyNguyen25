@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Phuc Huy Nguyen, but call me Ari for short. I am a CS student at Northern Virginia Community College.
-- 👀 I’m interested in software development (especially mobile applications development).
-- 🌱 I’m currently learning C/C++, Python, Dart, Flutter.
+- 👋 Hi, I’m Phuc Huy Nguyen - a CS student at Northern Virginia Community College.
+- 👀 I’m interested in software development (especially in mobile applications development).
+- 🌱 I’m currently learning C/C++, Python, Dart, Flutter, JavaScript, Node.js, Express.
 - 😄 Pronouns: He/him.
 - ⚡ My hobbies: Swimming, playing badminton, and watching movies (My favorite movie is Brooklyn Nine-Nine). 
 
