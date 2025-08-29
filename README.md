@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Phuc Huy Nguyen - a CS student at Northern Virginia Community College.
-- 👀 I’m interested in software development (especially in mobile applications development).
-- 🌱 I’m currently learning C/C++, Python, Dart, Flutter, JavaScript, Node.js, Express.
+- 👀 I’m interested in Software Engineering and Artificial Intelligence.
+- 🌱 My favorite programming languages: C/C++, Python, Java, JavaScript, and Dart.
+- 🌱 My favorite frameworks and libraries: Flutter, React, and Express.js.
 - 😄 Pronouns: He/him.
-- ⚡ My hobbies: Swimming, playing badminton, and watching movies (My favorite movie is Brooklyn Nine-Nine). 
+- ⚡ My hobbies: coding, running, and watching movies. 
 
 <!---
 HuyNguyen25/HuyNguyen25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
